@@ -18,6 +18,7 @@
 Four-wheel independent steering and driving (4WISD) robots offer superior mobility and adaptability in complex environments. 
 However, this enhanced capability introduces significant trajectory-planning challenges, including coordinating vehicle orientation with centroid motion, satisfying motor-level constraints, and computing feasible trajectories in real time within cluttered environments.
 Existing planners often overlook actuator performance limits or fail to fully exploit the robot’s omnidirectional mobility, resulting in degraded navigability in complex scenarios or dynamically infeasible trajectories. 
+
 The source code will be released upon the acceptance of the paper.
 
 ## 🔗 Useful Links
